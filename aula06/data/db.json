@@ -1,0 +1,16 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "UNIESP Inaugura Novo Centro de Pesquisa em Inteligência Artificial",
+            "subtitulo": "A nova instalação é um marco no avanço tecnológico da instituição",
+            "texto": "A Universidade UNIESP anunciou hoje a inauguração de seu novo Centro de Pesquisa em Inteligência Artificial. A nova instalação, equipada com tecnologia de ponta, visa promover avanços significativos na área de IA, beneficiando tanto a comunidade acadêmica quanto a sociedade em geral. O reitor da universidade destacou a importância do centro para o desenvolvimento de soluções inovadoras e a formação de profissionais altamente qualificados."
+        },
+        {
+            "id": 2,
+            "titulo": "UNIESP Recebe Prêmio de Excelência Acadêmica",
+            "subtitulo": "Instituição é reconhecida pela qualidade de seus programas de ensino",
+            "texto": "A Universidade UNIESP foi agraciada com o Prêmio de Excelência Acadêmica 2024, em reconhecimento à qualidade de seus programas de ensino e à dedicação de seu corpo docente. A premiação reflete os esforços contínuos da UNIESP em proporcionar uma educação de alto nível e preparar seus alunos para os desafios do mercado de trabalho. Durante a cerimônia, o diretor agradeceu aos professores, funcionários e estudantes pelo comprometimento e empenho."
+        }
+    ]
+}
